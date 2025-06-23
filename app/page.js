@@ -14,10 +14,8 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by editing <code>app/page.js</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
+          <li>This is a template for the Next 15 + React 18 + tailwindcss3 .</li>
+          <li>You can start building your features on top of this.</li>
         </ol>
 
         <div className={styles.ctas}>
